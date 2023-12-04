@@ -1,0 +1,5 @@
+C++ results:
+Average memory allocation took: 10362 nanoseconds
+Average static memory access took: 10362 nanoseconds
+Average dynamic memory access took: 10362 nanoseconds
+Number of allocations: 10

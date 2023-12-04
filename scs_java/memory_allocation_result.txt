@@ -1,0 +1,8 @@
+Java results:
+Average memory allocation took: 1262 nanoseconds
+Average memory access static took: 7362 nanoseconds
+Average memory access dynamic took: 9475 nanoseconds
+Average thread creation took: 182833 nanoseconds
+Average thread context switch took: 12716 nanoseconds
+Average thread migration took: 49820 nanoseconds
+Number of allocations: 10

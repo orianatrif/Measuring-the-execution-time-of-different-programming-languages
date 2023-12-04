@@ -1,0 +1,3 @@
+/Users/triforiana/Documents/facultate/scs/proiect/proiect/scs_c++/cmake-build-debug/CMakeFiles/scs_c__.dir
+/Users/triforiana/Documents/facultate/scs/proiect/proiect/scs_c++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/triforiana/Documents/facultate/scs/proiect/proiect/scs_c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
